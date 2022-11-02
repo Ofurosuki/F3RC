@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../hand_operated_f3RC"
+		},
+		{
+			"name": "hand_operated_2",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
